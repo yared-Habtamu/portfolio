@@ -13,8 +13,4 @@
       "dest": "myportfolio/wsgi.py"
     }
   ],
-  "env": {
-    "DJANGO_SETTINGS_MODULE": "myportfolio.settings",
-    "PYTHON_VERSION": "3.9"
-  }
 }
