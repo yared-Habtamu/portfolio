@@ -10,7 +10,8 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "myportfolio/wsgi.py"
+      "dest": "myportfolio.wsgi:application"
     }
-  ],
+  ]
 }
+
